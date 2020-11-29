@@ -1,0 +1,157 @@
+body {background-color: white;
+  font-family: 'Raleway', sans-serif;
+  margin: 00;
+
+}
+p {}
+
+table {
+  border-spacing: 10px;
+  text-align: center;
+}
+hr {
+  counter-increment: hr;
+  text-align: center;
+  position: relative;
+  background: none;
+  margin: 5em 1em;
+  border: 0;
+  border-top: dashed 1px #dddddd;
+  width: 30%;
+  left: 33%;
+}
+nav {
+  background-color: #00BBEA;
+}
+a {
+  color: white;
+}
+
+
+.ms-desc{
+  text-align: center;
+  margin:15px;
+}
+
+.intro{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.satt {
+  width: 100%;
+  position: relative;
+  top: 0;
+ left: 0;
+}
+
+.intro-logo{
+  position: absolute;
+  bottom: 47%;
+  right:47%;
+  }
+
+.intro-h {
+  position: absolute;
+  text-align: center;
+  bottom:35%;
+  right : 39%;
+  color: white;
+}
+
+.intro-p {
+  position: absolute;
+  text-align: center;
+  bottom:30%;
+  right : 43%;
+  color: white;
+}
+
+.best {
+  color:  #00BBEA;
+}
+
+.products{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.prods-img{
+  float: right;
+  width: 60%;
+  position: relative;
+  bottom: 50px;
+  right: 100px;
+  margin: 50 50;
+  border-radius: 20%;
+}
+.bigmarg{
+  margin-top: 530px
+}
+
+.mama-box{
+position: relative;
+}
+
+.test-box {
+  background-color: #00BBEA;
+  width: 35%;
+  margin: 40px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #00a5a7;
+  float: left;
+}
+
+.test-box1 {
+  background-color: #00BBEA;
+  width: 32%;
+  margin: 40px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #00a5a7;
+  bottom: 100%;
+  left:100000px;
+  float: left;
+}
+
+.text-box {
+    margin-left: 850px;
+    width: 100%;
+}
+
+.test-box2 {
+  background-color: #00BBEA;
+  width: 31%;
+  margin:40px 500px 40px 0px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #00a5a7;
+  float: right;
+}
+
+.name{
+  right: 100%;
+  padding-left: 5%;
+
+}
+
+.span{
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 75px;
+}
+
+.dialogue{
+  margin-left: 30px;
+}
+
+.ceo-pic{
+  float: left;
+  width: 70px;
+  border-radius: 100%;
+  margin: 20px;
+}
